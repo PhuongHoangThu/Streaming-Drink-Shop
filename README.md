@@ -1,6 +1,8 @@
 # Streaming-Drink-Shop
 Private project for my small business
 
+Draw.io https://app.diagrams.net/#G1LT6wFPNcbwo9tsGbsfNv926DRGZFh908#%7B%22pageId%22%3A%22lS7qHDq6ZlOi1aumd8E3%22%7D
+
 # Kiến trúc hệ thống **Streaming Drink Shop** (chi tiết + kế hoạch luyện tập)
 
 > Mục tiêu: xây dựng một hệ thống quản lý bán đồ uống đơn giản nhưng giàu tính học tập cho Data Engineer — có GUI để thêm/mở món, thu nhận event đặt hàng/stock theo streaming qua Kafka, xử lý real-time bằng Spark, lưu trữ cho OLTP (Postgres) và OLAP (ClickHouse/Materialized views), deployment lên EC2, monitoring, và nhiều bài tập thực hành.
